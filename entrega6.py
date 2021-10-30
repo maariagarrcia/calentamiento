@@ -14,3 +14,4 @@ else:
     print(total_canasta)
 
 
+https://www.figma.com/file/555JgrEbPx554W9OKreLEk/Untitled?node-id=0%3A1
