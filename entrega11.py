@@ -1,6 +1,6 @@
 import random
-#import seaborn as sns
-#import matplotlib.pyplot as plt
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 iterations=15500
 variables=['horario','salario','teletrabajo','nivel empleo','categoría',\
@@ -25,10 +25,10 @@ b= Monte_Carlo([[8,8],[8,9],[7,9],[0,4.5],[2,9.5],[5,8],[7,9],[5,6],[6,8],[2,10]
 c= Monte_Carlo([[5,6],[8,8],[1,8],[9,10],[10,10],[2,3.5],[5,6],[0,9],[2,4],[10,10]])
 
 #Plot the results
-#fig = plt.figure(figsize=(10,6)) 
-#sns.distplot(a)
-#sns.distplot(b)
-#sns.distplot(c)
-#fig.legend(labels=['Job A','Job B','Job C']) 
-#plt.title('Monte-Carlo Distributions') 
-#plt.show()
+fig = plt.figure(figsize=(10,6)) 
+sns.distplot(a)
+sns.distplot(b)
+sns.distplot(c)
+fig.legend(labels=['Job A','Job B','Job C']) 
+plt.title('Monte-Carlo Distributions') 
+plt.show()
