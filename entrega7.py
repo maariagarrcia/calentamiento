@@ -59,3 +59,7 @@ if(helados_consumidos<=0):
 print("* Helados TOTALES consumidos ", helados_consumidos)
 print("* Dinero TOTAL que me queda ", dinero_actual)
 print("* Satisfacción CONSEGUIDA", satisfaccion_actual*100)
+
+#Diagrama de flujo
+import webbrowser
+webbrowser.open("https://www.figma.com/file/mah8Zw7X6eIvE5Wl7WZpDy/entrega-7?node-id=0%3A1")

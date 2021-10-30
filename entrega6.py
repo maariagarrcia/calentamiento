@@ -13,5 +13,6 @@ else:
     total_canasta= envio_pago_kg_peso_canastas + dinero_canasta
     print(total_canasta)
 
-
-https://www.figma.com/file/555JgrEbPx554W9OKreLEk/Untitled?node-id=0%3A1
+#Diagrama de flujo
+import webbrowser
+webbrowser.open("https://www.figma.com/file/555JgrEbPx554W9OKreLEk/Untitled?node-id=0%3A1")

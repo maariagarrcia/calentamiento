@@ -29,7 +29,3 @@ if (bitcoin_a_euro<30000):
 else:
     print("no_ha_caido")
 
-
-
-    
-

@@ -1,4 +1,4 @@
-#Variable
+#Variables
 altura_inicial=200
 altura_actual= altura_inicial + 50
 
