@@ -1,6 +1,6 @@
 #Crear un archivo
 f = open("flag.txt", "w") 
-f.write("Voy a intentar sacar un 10 :) ") 
+f.write("quiero salir de fiesta pero estoy haciendo programación (:) ") 
 f.close
 
 f = open("flag.txt", "r") 
