@@ -1,12 +1,12 @@
-#Número aleatorio
+# Número aleatorio
 import random
 
-#Bucle del 0 al 50
+# Bucle del 0 al 50
 for x in range (51):
   print(x)
 
 
-#Cálculo de hambre
+# álculo de hambre
 edad = random.randint(1,100)
 inc_satisfaccion_por_helado = (edad/100)
 satisfaccion_inicial = edad/100
@@ -60,6 +60,6 @@ print("* Helados TOTALES consumidos ", helados_consumidos)
 print("* Dinero TOTAL que me queda ", dinero_actual)
 print("* Satisfacción CONSEGUIDA", satisfaccion_actual*100)
 
-#Diagrama de flujo
+# Diagrama de flujo
 import webbrowser
 webbrowser.open("https://www.figma.com/file/mah8Zw7X6eIvE5Wl7WZpDy/entrega-7?node-id=0%3A1")

@@ -1,4 +1,4 @@
-#Crear un archivo
+# Crear un archivo
 f = open("flag.txt", "w") 
 f.write("quiero salir de fiesta pero estoy haciendo programación :) ") 
 f.close

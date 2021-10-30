@@ -1,4 +1,4 @@
-#Variables
+# Variables
 A=21
 B=43
 C=142
@@ -7,7 +7,7 @@ E=10
 F=342
 G=5
 
-#Cálculos
+# Cálculos
 print(A+B)
 
 print(C-D)
