@@ -32,3 +32,5 @@ sns.distplot(c)
 fig.legend(labels=['Job A','Job B','Job C']) 
 plt.title('Monte-Carlo Distributions') 
 plt.show()
+
+#La mejor opción es la C en comparación con los otros dos trabajos.
